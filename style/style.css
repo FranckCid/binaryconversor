@@ -1,14 +1,39 @@
+body{
+  text-align: center;
+  font-family: "Lato", "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+  text-shadow: 1px 1px 10px black;
+  color: #f7dCdD;
+  background: #781E36;
+}
+
 #container{
-	100%;
+  width: 98%;
+  border: 0 auto;
+  padding: 10px;
+  border-radius: 2px;
+  background: #B1103C;
 }
 
 textarea{
-	height: 150px;
-	width: 100%;
-	resize: none;
+  height: 150px;
+  width: 100%;
+  font-family: "Lato", "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+  box-shadow: 1px 1px 10px black;
+  border-color: #575C5D;
+  outline-color: #caffff;
+  color: #caffff;
+  background: #4A2932;
+  resize: none;
 }
 
-input{
-	width: 100%;
-	margin-bottom: 15px;
+input, a, a:hover, a:active, a:visited{
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 3px;
+  border-color: #FE0F2E;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px black;
+  color: #F1EBD8;
+  background: #FE0F2E;
+  text-decoration: none;
 }
