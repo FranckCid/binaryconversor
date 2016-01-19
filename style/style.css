@@ -1,0 +1,14 @@
+#container{
+	100%;
+}
+
+textarea{
+	height: 150px;
+	width: 100%;
+	resize: none;
+}
+
+input{
+	width: 100%;
+	margin-bottom: 15px;
+}
