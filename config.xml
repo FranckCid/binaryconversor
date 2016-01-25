@@ -10,11 +10,12 @@
     <name>Binary Conversor</name>
 
     <description>
-        An example for phonegap build docs. 
+        A binary conversor.
     </description>
 
     <author href="www.franckcid.esy.es" email="juniorfchj2@gmail.com">
        Franck Cid
     </author>
+	<icon src="icon.png" />
 
 </widget>
